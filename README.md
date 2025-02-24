@@ -32,7 +32,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 1. Clone the repository or download the notebook.
 2. Open the notebook in Jupyter or a compatible environment:
    ```bash
-   jupyter notebook "BitirmeProjesi_SON_ULAS_AKTAS.ipynb"
+   jupyter notebook "main.ipynb"
    ```
 3. Run the cells sequentially to explore and analyze the data.
 
